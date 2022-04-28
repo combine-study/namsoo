@@ -10,7 +10,7 @@
 
 | Section                            | Week | Chap                                                         |
 | ---------------------------------- | ---- | ------------------------------------------------------------ |
-| Section I: Introduction to Combine | 1    | Chapter 1: Hello, Combine! <br />Chapter 2: Publishers & Subscribers |
+| Section I: Introduction to Combine | 1    | [Chapter 1: Hello, Combine!](./1.Hello%2C%20Combine!.md) <br />Chapter 2: Publishers & Subscribers |
 | Section II: Operators              | 2    | Chapter 3: Transforming Operators<br />Chapter 4: Filtering Operators |
 |                                    | 3    | Chapter 3: Transforming Operators<br />Chapter 4: Filtering Operators |
 |                                    | 4    | Chapter 5: Combining Operators<br />Chapter 6: Time Manipulation Operators |
