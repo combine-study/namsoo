@@ -15,10 +15,10 @@
 |                                    | 3    | Chapter 4: Filtering Operators |
 |                                    | 4    | Chapter 5: Combining Operators |
 |                                    | 5    | Chapter 6: Time Manipulation Operators |
-| Section III: Combine in Action     | 6    | Chapter 7: Sequence Operators |
+|                                    | 6    | Chapter 7: Sequence Operators |
 |                                    | 7    | Chapter 8: In Practice: Project "Collage" |
 |                                    | 8    | Chapter 9: Networking |
-|                                    | 9    | Chapter 10: Debugging  |
+|   Section III: Combine in Action   | 9    | Chapter 10: Debugging  |
 
 ~~Chapter 11: Timers~~ </br>
 ~~Chapter 12: Key-Value Observing~~
