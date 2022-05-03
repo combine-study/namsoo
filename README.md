@@ -11,13 +11,14 @@
 | Section                            | Week | Chap                                                         |
 | ---------------------------------- | ---- | ------------------------------------------------------------ |
 | Section I: Introduction to Combine | 1    | [Chapter 1: Hello, Combine!](./1.Hello%2C%20Combine!.md) <br />[Chapter 2: Publishers & Subscribers](./2.Publishers%20%26%20Subscribers.md) |
-| Section II: Operators              | 2    | Chapter 3: Transforming Operators<br />Chapter 4: Filtering Operators |
-|                                    | 3    | Chapter 3: Transforming Operators<br />Chapter 4: Filtering Operators |
-|                                    | 4    | Chapter 5: Combining Operators<br />Chapter 6: Time Manipulation Operators |
-|                                    | 5    | Chapter 7: Sequence Operators<br/>Chapter 8: In Practice: Project "Collage" |
-| Section III: Combine in Action     | 6    | Chapter 9: Networking<br/>Chapter 10: Debugging              |
-|                                    | 7    | Chapter 11: Timers <br/>Chapter 12: Key-Value Observing      |
-|                                    | 8    | Chapter 13: Resource Management <br/>Chapter 14: In Practice: Project "News" |
-|                                    | 9    |                                                              |
+| Section II: Operators              | 2    | Chapter 3: Transforming Operators |
+|                                    | 3    | Chapter 4: Filtering Operators |
+|                                    | 4    | Chapter 5: Combining Operators |
+|                                    | 5    | Chapter 6: Time Manipulation Operators |
+| Section III: Combine in Action     | 6    | Chapter 7: Sequence Operators |
+|                                    | 7    | Chapter 8: In Practice: Project "Collage" |
+|                                    | 8    | Chapter 9: Networking |
+|                                    | 9    | Chapter 10: Debugging  |
 
-
+~~Chapter 11: Timers~~ </br>
+~~Chapter 12: Key-Value Observing~~
