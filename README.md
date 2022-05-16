@@ -12,7 +12,7 @@
 | ---------------------------------- | ---- | ------------------------------------------------------------ |
 | Section I: Introduction to Combine | 1    | [Chapter 1: Hello, Combine!](./1.Hello%2C%20Combine!.md) <br />[Chapter 2: Publishers & Subscribers](./2.Publishers%20%26%20Subscribers.md) |
 | Section II: Operators              | 2    | [Chapter 3: Transforming Operators](./3.Transforming%20Operators.md) |
-|                                    | 3    | Chapter 4: Filtering Operators |
+|                                    | 3    | [Chapter 4: Filtering Operators](./4.Filtering%20Operators.md) |
 |                                    | 4    | Chapter 5: Combining Operators |
 |                                    | 5    | Chapter 6: Time Manipulation Operators |
 |                                    | 6    | Chapter 7: Sequence Operators |
