@@ -14,7 +14,7 @@
 | Section II: Operators              | 2    | [Chapter 3: Transforming Operators](./3.Transforming%20Operators.md) |
 |                                    | 3    | [Chapter 4: Filtering Operators](./4.Filtering%20Operators.md) |
 |                                    | 4    | [Chapter 5: Combining Operators](./5.Combining%20Operators.md) |
-|                                    | 5    | Chapter 6: Time Manipulation Operators |
+|                                    | 5    | [Chapter 6: Time Manipulation Operators](./6.Time%20Manipulation%20Operators.md) |
 |                                    | 6    | Chapter 7: Sequence Operators |
 | Section III: Combine in Action     | 7    | Chapter 9: Networking |
 |                                    | 8    | Chapter 10: Debugging |
