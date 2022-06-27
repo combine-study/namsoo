@@ -16,10 +16,4 @@
 |                                    | 4    | [Chapter 5: Combining Operators](./5.Combining%20Operators.md) |
 |                                    | 5    | [Chapter 6: Time Manipulation Operators](./6.Time%20Manipulation%20Operators.md) |
 |                                    | 6    | [Chapter 7: Sequence Operators](./7.Sequence%20Operators%20%20.md) |
-| Section III: Combine in Action     | 7    | Chapter 9: Networking |
-|                                    | 8    | Chapter 10: Debugging |
-|                                    | 9    | Chapter 11: Timers |
 
-
-~~Chapter 12: Key-Value Observing~~</br>
-~~Chapter 13: Resource Management~~
